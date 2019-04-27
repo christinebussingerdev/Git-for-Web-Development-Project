@@ -1,1 +1,1 @@
-// init comment
+// initialization comment
